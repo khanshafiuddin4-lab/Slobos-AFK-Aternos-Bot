@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": Instagram.aternos.me",
+    "ip":"Instagram.aternos.me",
     "port": 29672,
     "version": "",
     "try-creative": false
